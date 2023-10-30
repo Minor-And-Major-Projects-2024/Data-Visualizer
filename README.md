@@ -1,6 +1,7 @@
-# DVS
+# Data-Visualizer
 
-## Installation
+## ⚙️Installation
+Following are the steps to setup the project locally, and run it:
 
 ```bash
 # Clone the repository
