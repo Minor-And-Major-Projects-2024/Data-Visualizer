@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "63bf8239f03239e002001612",
+    "totalProfit": "$212000.00",
+    "totalRevenue": "$283000.00",
+    "totalExpenses": "$71000.00",
+    "monthlyData": [
+      {
+        "month": "january",
+        "revenue": "$15989.64",
+        "expenses": "$14231.73",
+        "operationalExpenses": "$10340.03",
+        "nonOperationalExpenses": "$4891.70"
+      }
+    ],
+    "dailyData": [
+      {
+        "date": "2022-01-02",
+        "revenue": "$1498.94",
+        "expenses": "$430.64"
+      }
+    ],
+    "expensesByCategory": {
+      "salaries": "$38000.00",
+      "supplies": "$13000.00",
+      "services": "$10000.00"
+    }
+  }
+]
